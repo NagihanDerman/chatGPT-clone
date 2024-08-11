@@ -15,3 +15,7 @@ Ce projet est une interface de chat simple qui interagit avec l'API OpenAI en ut
 - HTML : Langage de balisage pour structurer la page web.
 - CSS : Feuilles de style pour la mise en forme de l'interface utilisateur.
 - API OpenAI : Intégration avec le modèle GPT-3.5 pour la génération de réponses de chat.
+
+### GIF
+
+<img src="./images/chatgpt.gif"/>
